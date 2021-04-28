@@ -26,5 +26,5 @@ InputCheck class has three check methods for different user inputs. intInput(), 
 * Firstly, you need to clone this repository with the Task Manager program and related text files to a local repository on your computer, so that you can access and run the program. 
 
 ### Contributors
-This project was worked on individually by myself for the software engineering bootcamp. 
-However, the helpful mentors from Hyperion Development have reviwed the project and commented on it too!
+From the help of my mentors and myself I was able to create this project which was reviewed and marked for:
+Completeness, Efficiency, Style and Documentation
